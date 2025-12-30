@@ -78,4 +78,4 @@ highlights how structured data exploration supports strategic decision-making.
 
 ## 👤 Author
 Mohd Sahib Khan  
-Aspiring Data Analyst  
+Data Analyst  

@@ -66,5 +66,16 @@ The goal is to transform raw sales data into actionable business insights.
 
 ---
 
-## ▶ How to Run This Project
-1. Clone the repository:
+
+---
+
+## 📌 Conclusion
+This project demonstrates practical data analysis skills including data cleaning,
+EDA, visualization, and business insight extraction using Python. The analysis
+highlights how structured data exploration supports strategic decision-making.
+
+---
+
+## 👤 Author
+Mohd Sahib Khan  
+Aspiring Data Analyst  
